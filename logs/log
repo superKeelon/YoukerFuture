@@ -1,0 +1,52 @@
+[I 181214 16:14:32 web:2162] 200 GET / (127.0.0.1) 15.39ms
+[W 181214 16:14:32 web:2162] 404 GET /apple-touch-icon-precomposed.png (127.0.0.1) 10.97ms
+[W 181214 16:14:32 web:2162] 404 GET /apple-touch-icon.png (127.0.0.1) 0.95ms
+[W 181214 16:15:10 web:2162] 404 GET /orders.html (127.0.0.1) 0.71ms
+[W 181214 16:15:14 web:2162] 404 GET /orders.html (127.0.0.1) 0.69ms
+[W 181214 16:16:27 web:2162] 404 GET /orders.html (127.0.0.1) 0.84ms
+[I 181214 16:16:27 web:2162] 304 GET / (127.0.0.1) 0.82ms
+[W 181214 16:16:28 web:2162] 404 GET /auth.html (127.0.0.1) 0.73ms
+[W 181214 16:16:29 web:2162] 404 GET /api/register (127.0.0.1) 0.71ms
+[W 181214 16:16:34 web:2162] 404 GET /api/imagecode?codeid&pcodeid (127.0.0.1) 0.72ms
+[E 181214 16:16:38 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/PycharmProjects/Future/venv/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/PycharmProjects/Future/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181214 16:16:38 web:2162] 500 GET /api/orders (127.0.0.1) 3.44ms
+[W 181214 16:16:38 web:2162] 404 GET /favicon.ico (127.0.0.1) 0.83ms
+[I 181214 16:27:46 autoreload:199] /Users/apple/PycharmProjects/Future/handlers/BaseHandler.py modified; restarting server
+[I 181214 16:27:55 web:2162] 200 GET / (127.0.0.1) 6.87ms
+[W 181214 16:27:55 web:2162] 404 GET /favicon.ico (127.0.0.1) 2.25ms
+[E 181214 16:29:50 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8000', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/PycharmProjects/Future/venv/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/PycharmProjects/Future/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181214 16:29:50 web:2162] 500 GET /api/orders (127.0.0.1) 1.23ms
+[I 181214 16:38:21 autoreload:199] /Users/apple/PycharmProjects/Future/urls.py modified; restarting server
+[I 181214 16:38:22 web:2162] 200 GET /api/orders (127.0.0.1) 1.33ms
+[I 181214 16:38:23 web:2162] 304 GET /api/orders (127.0.0.1) 0.38ms
+[I 181214 16:55:21 web:2162] 200 GET /api/orders (127.0.0.1) 0.35ms
+[I 181214 16:58:10 web:2162] 200 GET /api/orders (127.0.0.1) 0.34ms
+[I 181214 16:58:12 web:2162] 200 GET /api/orders (127.0.0.1) 0.35ms
+[I 181214 17:28:37 web:2162] 304 GET /api/orders (127.0.0.1) 0.48ms
+[I 181214 18:55:57 web:2162] 200 GET /api/orders (127.0.0.1) 1.36ms
