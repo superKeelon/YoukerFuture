@@ -50,3 +50,9 @@
 [I 181214 16:58:12 web:2162] 200 GET /api/orders (127.0.0.1) 0.35ms
 [I 181214 17:28:37 web:2162] 304 GET /api/orders (127.0.0.1) 0.48ms
 [I 181214 18:55:57 web:2162] 200 GET /api/orders (127.0.0.1) 1.36ms
+[I 181214 20:50:15 autoreload:199] /Users/apple/Documents/GitHub/YoukerFuture/config.py modified; restarting server
+[I 181215 18:10:27 autoreload:199] /Users/apple/Documents/GitHub/YoukerFuture/server.py modified; restarting server
+[I 181216 17:09:23 web:2162] 200 GET / (127.0.0.1) 15.88ms
+[W 181216 17:09:23 web:2162] 404 GET /favicon.ico (127.0.0.1) 4.92ms
+[W 181216 17:09:23 web:2162] 404 GET /favicon.ico (127.0.0.1) 0.70ms
+[I 181216 17:09:59 web:2162] 200 GET /api/orders (127.0.0.1) 0.54ms

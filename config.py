@@ -20,10 +20,10 @@ settings = {
 #     )
 #mysql
 mysql_options = dict(
-    host='127.0.0.1',
-    database='ihome',
-    user='root',
-    password='dcdell88',
+    host='rm-wz95m76hjp89yf9siao.mysql.rds.aliyuncs.com',
+    database='maxwell',
+    user='iyouker',
+    password='Iyouker0859',
     charset='utf8',
 
 
@@ -36,6 +36,7 @@ redis_options = dict(
 )
 # 当前文件的log里面。
 log_file = os.path.join(os.path.dirname(__file__),"logs/log")
+
 
 #设置日志等级。
 log_level = "debug"
