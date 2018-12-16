@@ -1,0 +1,76 @@
+
+数据库表的
+订单表3
+
+{
+           * "order_id": "1307",
+            "order_number": "1000000011801",
+           * "order_state": "16",
+           * "hotel_Id": "61",
+           * "order_date": "14/12/2018 17:59:01",
+           * "price": "1",
+           * "user_id": "17",
+           * "booking_num": "1",
+           * "is_finish": "1",
+           * "pay_type": "85",
+            "is_refund": "1",
+            "is_appraise": "0",
+            "is_pay": "1",
+            "bill_status": "0",
+           * "booking_checkin_date": "14/12/2018 00:00:00",
+           * "booking_leave_date": "15/12/2018 00:00:00",
+            "serial_number": "",
+            "checkin_time": "",
+            "check_leave_date": "",
+            "pay_createTime": "",
+            "bill_operationtime": "14/12/2018 17:59:09",
+            "isdeleted": "0",
+            "trade_no": "4200000237201812145134488990",
+            "buyer_pay_amount": "1",
+            "order_type": "105",
+           * "unit_price": "1",
+           * "company_Code": "0"
+        }
+
+酒店表
+
+{
+            "hotel_id": "47",
+
+          * "hotel_name": "唯家酒店（测试）",
+            "detail_position_x": "113.99",
+            "detail_position_y": "22.67",
+          *  "district_code": "3926",
+            "hotel_type": "91",
+            "hotel_introduce": "唯家酒店测试用，不作为下单依据！",
+          *  "hotel_address": "大浪商业中心",
+            "reception_phone": "075521033219",
+            "user_id": "202",
+            "isdeleted": "0",
+            "stop_order": "0",
+            "auto": "1",
+            "service_fee": "5",
+            "renovation_Time": "8/8/2018 00:00:00"
+        }
+用户表。
+{
+            "user_id": "1",
+            "user_name": "",
+         *   "nick_name": "深海有只猫i",
+            "user_pwd": "E10ADC3949BA59ABBE56E057F20F883E",
+         *   "phone_number": "13641410613",
+            "age": "",
+            "gender": "女",
+            "role_id": "9",
+            "card": "",
+            "address": "",
+            "reg_date": "13/6/2018 19:59:08",
+            "isdeleted": "1",
+            "token": "nzUFwbB8qCXNAeLXRh",
+            "registration_ID": "1104a89792fb581dd69",
+            "login_Type": "73",
+            "unique_id": "o8s9r1Yxl0GVnG4zwZIOie6Po7Is",
+            "head_url": "http://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epqwAribARdbiaZq1QVZeD1RgJ0iblwxojVyiaOnicQjYwDVzja01sR2B7jaia7icMn4fmqSaIIuQFQmayKA/132",
+            "balance": "0",
+            "association_Code": ""
+        }

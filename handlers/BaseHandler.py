@@ -31,7 +31,7 @@ class BaseHandler(RequestHandler):
         # self.xsrf_token
         # 预解析json
 
-        if self.request.headers.get("Content-Type", "").startswith(""):
+        if self.request.headers.get("Content-Type", "").startswith("application/json"):
             self.json_args = json.loads(self.request.body)
 
         else:
