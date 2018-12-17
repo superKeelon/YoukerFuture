@@ -1,0 +1,42 @@
+#接口文档。
+
+1.订单信息表。
+ url = api/orders
+
+ 返回参数详解。（表头名称）
+ order_id:订单ID,
+ pay_type:84支付宝,85微信。
+ order_type:(10:待付款,12:已入住,13,已入住,16:已退款,18:评价,19:已评价,96:订单异常,99:订单关闭)
+
+
+
+
+
+
+
+ price:订单金额。
+ booking_num:订单数量。
+ unit_price:订单单价。
+ booking_checkin_date:入住日期。
+ booking_leave_date:入驻日期.
+
+
+
+
+ phone_number:客户电话,
+ nick_name:客户昵称。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
