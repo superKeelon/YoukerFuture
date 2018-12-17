@@ -11,6 +11,10 @@
 
 
 
+ hotel_name:酒店名称。
+ hotel_address:酒店地址
+ reception_phone:酒店联系电话。
+
 
 
 
@@ -19,6 +23,7 @@
  unit_price:订单单价。
  booking_checkin_date:入住日期。
  booking_leave_date:入驻日期.
+
 
 
 
