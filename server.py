@@ -12,7 +12,7 @@ from tornado.options import  define,options
 from urls import urls
 import pymysql
 import redis
-define("port",type=int,default=8080,help="run server on the given port")
+define("port",type=int,default=80,help="run server on the given port")
 # define("host",type=str,default="192.168.0.1",help="run server on the given port")
 
 # class Application(tornado.web.Application):

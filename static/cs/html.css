@@ -1,5 +1,7 @@
 .body{
 	height:100%;
+	width: 100%;
+	overflow: auto;
 }
 
 th{
@@ -28,6 +30,7 @@ tr{
 }
 
 .table{
+	width:1600px;
 	margin:0 auto;
 	border-collapse: collapse
 }
