@@ -1,0 +1,34 @@
+.body{
+	height:100%;
+}
+
+th{
+	border: #FFF 1px solid;
+}
+
+.odd{
+	background:#ffffff;
+}
+
+.dual{
+	background:#c0c0c0;
+}
+
+tr{
+	vertical-align: middle;
+    text-align: center;
+    background:#555;
+    border:2px solid #000;
+    height:40px;
+}
+
+.title{
+	background:#000;
+	color:#FFF;
+}
+
+.table{
+	margin:0 auto;
+	border-collapse: collapse
+}
+

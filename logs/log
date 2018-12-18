@@ -1376,3 +1376,359 @@
 [E 181217 20:36:16 MyOrders:27] 2018-11-21 13:24:50
 [E 181217 20:36:16 MyOrders:44] {'data': [{u'phone_number': u'13147045012', u'pay_type': 85, u'booking_leave_date': '2018-12-15', u'order_type': 105, u'nick_name': u'SHOW', u'price': 1.0, u'booking_checkin_date': '2018-12-14', u'unit_price': 1, u'booking_num': 1, u'hotel_address': u'\u897f\u73af\u8def', u'order_state': 16, u'order_date': '2018-12-14 17:59:01', u'order_number': u'1000000011801', u'reception_phone': u'4008550818', u'hotel_name': u'\u4f18\u5ba2\u672a\u6765\u9152\u5e97'}, {u'phone_number': u'13147045012', u'pay_type': 85, u'booking_leave_date': '2018-12-15', u'order_type': 105, u'nick_name': u'SHOW', u'price': 1.0, u'booking_checkin_date': '2018-12-14', u'unit_price': 1, u'booking_num': 1, u'hotel_address': u'\u897f\u73af\u8def', u'order_state': 16, u'order_date': '2018-12-14 17:55:27', u'order_number': u'1000000011800', u'reception_phone': u'4008550818', u'hotel_name': u'\u4f18\u5ba2\u672a\u6765\u9152\u5e97'}, {u'phone_number': u'13147045012', u'pay_type': 85, u'booking_leave_date': '2018-12-15', u'order_type': 105, u'nick_name': u'SHOW', u'price': 1.0, u'booking_checkin_date': '2018-12-14', u'unit_price': 1, u'booking_num': 1, u'hotel_address': u'\u897f\u73af\u8def', u'order_state': 16, u'order_date': '2018-12-14 17:55:26', u'order_number': u'1000000011799', u'reception_phone': u'4008550818', u'hotel_name': u'\u4f18\u5ba2\u672a\u6765\u9152\u5e97'}, {u'phone_number': u'13786095840', u'pay_type': 85, u'booking_leave_date': '2018-12-14', u'order_type': 105, u'nick_name': u'\u674elili', u'price': 1.0, u'booking_checkin_date': '2018-12-13', u'unit_price': 1, u'booking_num': 1, u'hotel_address': u'\u9526\u534e\u5927\u53a6', u'order_state': 16, u'order_date': '2018-12-13 15:42:55', u'order_number': u'1000000011798', u'reception_phone': u'4008008820', u'hotel_name': u'\u91d1\u5143\u82b3\u56db\u5b63\u9152\u5e97'}, {u'phone_number': u'13702571354', u'pay_type': 85, u'booking_leave_date': '2018-12-14', u'order_type': 105, u'nick_name': u'null5416lynX', u'price': 238.0, u'booking_checkin_date': '2018-12-13', u'unit_price': 238, u'booking_num': 1, u'hotel_address': u'\u5927\u6d6a\u8857\u9053\u534e\u76db\u8def128\u53f7', u'order_state': 99, u'order_date': '2018-12-13 11:41:17', u'order_number': u'1000000011797', u'reception_phone': u'0755-32988999', u'hotel_name': u'\u6df1\u5733\u5e02\u8c6a\u4e91\u5929\u9152\u5e97\u6709\u9650\u516c\u53f8'}, {u'phone_number': u'18658585858', u'pay_type': 84, u'booking_leave_date': '2018-12-07', u'order_type': 105, u'nick_name': u'null5489TM0P', u'price': 200.0, u'booking_checkin_date': '2018-12-06', u'unit_price': 200, u'booking_num': 1, u'hotel_address': u'\u9014\u5ba2\u4e2d\u56fd\u9152\u5e97', u'order_state': 99, u'order_date': '2018-12-06 18:33:13', u'order_number': u'1000000011796', u'reception_phone': u'9668667000', u'hotel_name': u'\u9014\u5ba2\u4e2d\u56fd\u9152\u5e97'}, {u'phone_number': u'13702571354', u'pay_type': 84, u'booking_leave_date': '2018-11-28', u'order_type': 105, u'nick_name': u'null5416lynX', u'price': 250.0, u'booking_checkin_date': '2018-11-27', u'unit_price': 250, u'booking_num': 1, u'hotel_address': u'\u5927\u6d6a\u8857\u9053\u534e\u76db\u8def128\u53f7', u'order_state': 99, u'order_date': '2018-11-27 15:22:29', u'order_number': u'1000000011795', u'reception_phone': u'0755-32988999', u'hotel_name': u'\u6df1\u5733\u5e02\u8c6a\u4e91\u5929\u9152\u5e97\u6709\u9650\u516c\u53f8'}, {u'phone_number': u'18658585858', u'pay_type': 84, u'booking_leave_date': '2018-11-28', u'order_type': 105, u'nick_name': u'null5489TM0P', u'price': 200.0, u'booking_checkin_date': '2018-11-27', u'unit_price': 200, u'booking_num': 1, u'hotel_address': u'\u9014\u5ba2\u4e2d\u56fd\u9152\u5e97', u'order_state': 99, u'order_date': '2018-11-27 15:07:16', u'order_number': u'1000000011794', u'reception_phone': u'9668667000', u'hotel_name': u'\u9014\u5ba2\u4e2d\u56fd\u9152\u5e97'}, {u'phone_number': u'13702571354', u'pay_type': 85, u'booking_leave_date': '2018-11-27', u'order_type': 105, u'nick_name': u'null5416lynX', u'price': 520.0, u'booking_checkin_date': '2018-11-26', u'unit_price': 520, u'booking_num': 1, u'hotel_address': u'\u5927\u6d6a\u8857\u9053\u534e\u76db\u8def128\u53f7', u'order_state': 99, u'order_date': '2018-11-26 14:24:22', u'order_number': u'1000000011793', u'reception_phone': u'0755-32988999', u'hotel_name': u'\u6df1\u5733\u5e02\u8c6a\u4e91\u5929\u9152\u5e97\u6709\u9650\u516c\u53f8'}, {u'phone_number': u'13786095840', u'pay_type': 85, u'booking_leave_date': '2018-11-22', u'order_type': 105, u'nick_name': u'\u674elili', u'price': 1.0, u'booking_checkin_date': '2018-11-21', u'unit_price': 1, u'booking_num': 1, u'hotel_address': u'\u9526\u534e\u5927\u53a6', u'order_state': 99, u'order_date': '2018-11-21 13:24:50', u'order_number': u'1000000011792', u'reception_phone': u'4008008820', u'hotel_name': u'\u91d1\u5143\u82b3\u56db\u5b63\u9152\u5e97'}]}
 [I 181217 20:36:16 web:2162] 200 GET /api/orders (127.0.0.1) 16.92ms
+[I 181218 11:26:51 web:2162] 200 GET / (127.0.0.1) 13.99ms
+[W 181218 11:26:58 web:2162] 404 GET /orders (127.0.0.1) 3.49ms
+[W 181218 11:28:20 web:2162] 404 GET /orders.html (127.0.0.1) 0.76ms
+[W 181218 11:28:33 web:2162] 404 GET /order (127.0.0.1) 0.93ms
+[I 181218 11:28:39 web:2162] 200 GET /order.html (127.0.0.1) 3.00ms
+[I 181218 11:28:39 web:2162] 200 GET /static/js/html.js (127.0.0.1) 1.08ms
+[W 181218 11:28:39 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.64ms
+[I 181218 11:28:39 web:2162] 200 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 8.99ms
+[I 181218 11:28:39 web:2162] 200 GET /static/js/jquery-3.2.1.js (127.0.0.1) 7.86ms
+[W 181218 11:28:39 web:2162] 404 GET /static/css/html.css (127.0.0.1) 1.42ms
+[E 181218 11:28:39 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:28:39 web:2162] 500 GET /api/orders (127.0.0.1) 4.36ms
+[I 181218 11:28:51 web:2162] 304 GET /order.html (127.0.0.1) 0.76ms
+[I 181218 11:28:51 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.06ms
+[I 181218 11:28:51 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.58ms
+[I 181218 11:28:51 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.74ms
+[W 181218 11:28:51 web:2162] 404 GET /static/css/html.css (127.0.0.1) 1.66ms
+[W 181218 11:28:51 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.81ms
+[E 181218 11:28:51 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:28:51 web:2162] 500 GET /api/orders (127.0.0.1) 1.09ms
+[I 181218 11:31:51 web:2162] 200 GET /order.html (127.0.0.1) 0.90ms
+[I 181218 11:31:51 web:2162] 304 GET /static/js/html.js (127.0.0.1) 1.17ms
+[W 181218 11:31:51 web:2162] 404 GET /static/css/html.css (127.0.0.1) 1.34ms
+[W 181218 11:31:51 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.78ms
+[E 181218 11:31:51 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:31:51 web:2162] 500 GET /api/orders (127.0.0.1) 0.96ms
+[I 181218 11:32:16 web:2162] 304 GET /order.html (127.0.0.1) 0.78ms
+[I 181218 11:32:16 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.75ms
+[I 181218 11:32:16 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 2.20ms
+[I 181218 11:32:16 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.66ms
+[W 181218 11:32:16 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.81ms
+[W 181218 11:32:16 web:2162] 404 GET /static/css/html.css (127.0.0.1) 1.14ms
+[E 181218 11:32:16 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:32:16 web:2162] 500 GET /api/orders (127.0.0.1) 0.94ms
+[I 181218 11:32:21 web:2162] 304 GET /order.html (127.0.0.1) 0.77ms
+[I 181218 11:32:21 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.19ms
+[I 181218 11:32:21 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.29ms
+[I 181218 11:32:21 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.70ms
+[W 181218 11:32:21 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.68ms
+[W 181218 11:32:22 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.84ms
+[E 181218 11:32:22 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:32:22 web:2162] 500 GET /api/orders (127.0.0.1) 0.83ms
+[I 181218 11:32:23 web:2162] 304 GET /order.html (127.0.0.1) 1.12ms
+[I 181218 11:32:23 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.07ms
+[W 181218 11:32:23 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.76ms
+[I 181218 11:32:23 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.47ms
+[I 181218 11:32:23 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.77ms
+[W 181218 11:32:23 web:2162] 404 GET /static/css/html.css (127.0.0.1) 1.31ms
+[E 181218 11:32:23 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:32:23 web:2162] 500 GET /api/orders (127.0.0.1) 0.87ms
+[I 181218 11:33:43 web:2162] 200 GET /order.html (127.0.0.1) 1.12ms
+[I 181218 11:33:43 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 0.85ms
+[I 181218 11:33:43 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.84ms
+[I 181218 11:33:43 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.70ms
+[W 181218 11:33:43 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.82ms
+[W 181218 11:33:44 web:2162] 404 GET /static/css/html.css (127.0.0.1) 0.79ms
+[E 181218 11:33:44 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:33:44 web:2162] 500 GET /api/orders (127.0.0.1) 1.03ms
+[I 181218 11:37:37 web:2162] 200 GET /order.html (127.0.0.1) 1.27ms
+[I 181218 11:37:37 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 2.34ms
+[I 181218 11:37:37 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 2.40ms
+[I 181218 11:37:37 web:2162] 304 GET /static/js/html.js (127.0.0.1) 1.29ms
+[I 181218 11:37:37 web:2162] 200 GET /static/cs/html.css (127.0.0.1) 1.55ms
+[E 181218 11:37:37 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:37:37 web:2162] 500 GET /api/orders (127.0.0.1) 0.95ms
+[I 181218 11:39:04 web:2162] 304 GET /order.html (127.0.0.1) 0.90ms
+[I 181218 11:39:04 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 0.98ms
+[I 181218 11:39:04 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.25ms
+[I 181218 11:39:04 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.67ms
+[I 181218 11:39:04 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 1.00ms
+[E 181218 11:39:04 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:39:04 web:2162] 500 GET /api/orders (127.0.0.1) 1.81ms
+[I 181218 11:39:06 web:2162] 304 GET /order.html (127.0.0.1) 1.11ms
+[I 181218 11:39:06 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.14ms
+[I 181218 11:39:06 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.58ms
+[I 181218 11:39:06 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.74ms
+[I 181218 11:39:06 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.74ms
+[E 181218 11:39:06 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1569, in _execute
+        result = self.prepare()
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/BaseHandler.py", line 35, in prepare
+        self.json_args = json.loads(self.request.body)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/__init__.py", line 339, in loads
+        return _default_decoder.decode(s)
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 364, in decode
+        obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+      File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/json/decoder.py", line 382, in raw_decode
+        raise ValueError("No JSON object could be decoded")
+    ValueError: No JSON object could be decoded
+[E 181218 11:39:06 web:2162] 500 GET /api/orders (127.0.0.1) 0.87ms
+[I 181218 11:57:54 web:2162] 304 GET /order.html (127.0.0.1) 2.67ms
+[I 181218 11:57:54 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 2.39ms
+[I 181218 11:57:54 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 2.13ms
+[I 181218 11:57:54 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.97ms
+[I 181218 11:57:54 web:2162] 200 GET /static/js/html.js (127.0.0.1) 1.17ms
+[E 181218 11:57:54 BaseHandler:38] *****fanhui*****
+[E 181218 11:57:54 MyOrders:14] 这个接口执行了
+[E 181218 11:57:54 MyOrders:20] (2006, "MySQL server has gone away (error(32, 'Broken pipe'))")
+[E 181218 11:57:54 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 11:57:54 web:2162] 500 GET /api/orders (127.0.0.1) 8.75ms
+[I 181218 11:58:39 web:2162] 304 GET /order.html (127.0.0.1) 0.98ms
+[I 181218 11:58:39 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.25ms
+[I 181218 11:58:39 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.48ms
+[I 181218 11:58:39 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.73ms
+[I 181218 11:58:39 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.78ms
+[E 181218 11:58:39 BaseHandler:38] *****fanhui*****
+[E 181218 11:58:39 MyOrders:14] 这个接口执行了
+[E 181218 11:58:39 MyOrders:20] (0, '')
+[E 181218 11:58:39 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 11:58:39 web:2162] 500 GET /api/orders (127.0.0.1) 1.51ms
+[I 181218 11:58:54 web:2162] 304 GET /order.html (127.0.0.1) 1.49ms
+[I 181218 11:58:54 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 0.95ms
+[I 181218 11:58:54 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.80ms
+[I 181218 11:58:54 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.73ms
+[I 181218 11:58:54 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.68ms
+[E 181218 11:58:55 BaseHandler:38] *****fanhui*****
+[E 181218 11:58:55 MyOrders:14] 这个接口执行了
+[E 181218 11:58:55 MyOrders:20] (0, '')
+[E 181218 11:58:55 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 11:58:55 web:2162] 500 GET /api/orders (127.0.0.1) 1.53ms
+[I 181218 12:13:09 web:2162] 304 GET /order.html (127.0.0.1) 1.14ms
+[I 181218 12:13:09 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 2.18ms
+[I 181218 12:13:09 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 2.34ms
+[I 181218 12:13:09 web:2162] 200 GET /static/js/html.js (127.0.0.1) 1.32ms
+[I 181218 12:13:09 web:2162] 200 GET /static/cs/html.css (127.0.0.1) 1.15ms
+[E 181218 12:13:09 BaseHandler:38] *****fanhui*****
+[E 181218 12:13:09 MyOrders:14] 这个接口执行了
+[E 181218 12:13:09 MyOrders:20] (0, '')
+[E 181218 12:13:09 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 12:13:09 web:2162] 500 GET /api/orders (127.0.0.1) 2.27ms
+[I 181218 12:13:11 web:2162] 304 GET /order.html (127.0.0.1) 0.83ms
+[I 181218 12:13:11 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.20ms
+[I 181218 12:13:11 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.75ms
+[I 181218 12:13:11 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.66ms
+[I 181218 12:13:11 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.36ms
+[E 181218 12:13:11 BaseHandler:38] *****fanhui*****
+[E 181218 12:13:11 MyOrders:14] 这个接口执行了
+[E 181218 12:13:11 MyOrders:20] (0, '')
+[E 181218 12:13:11 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 12:13:11 web:2162] 500 GET /api/orders (127.0.0.1) 1.71ms
+[I 181218 14:20:26 web:2162] 304 GET /order.html (127.0.0.1) 1.26ms
+[I 181218 14:20:26 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 2.26ms
+[I 181218 14:20:26 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 2.51ms
+[I 181218 14:20:26 web:2162] 200 GET /static/cs/html.css (127.0.0.1) 2.05ms
+[I 181218 14:20:26 web:2162] 304 GET /static/js/html.js (127.0.0.1) 1.07ms
+[E 181218 14:20:26 BaseHandler:38] *****fanhui*****
+[E 181218 14:20:26 MyOrders:14] 这个接口执行了
+[E 181218 14:20:26 MyOrders:20] (0, '')
+[E 181218 14:20:26 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 14:20:26 web:2162] 500 GET /api/orders (127.0.0.1) 1.56ms
+[I 181218 14:20:27 web:2162] 304 GET /order.html (127.0.0.1) 0.73ms
+[I 181218 14:20:27 web:2162] 304 GET /static/js/jquery-3.2.1.min.js (127.0.0.1) 1.00ms
+[I 181218 14:20:27 web:2162] 304 GET /static/js/jquery-3.2.1.js (127.0.0.1) 1.32ms
+[I 181218 14:20:27 web:2162] 304 GET /static/js/html.js (127.0.0.1) 0.64ms
+[I 181218 14:20:27 web:2162] 304 GET /static/cs/html.css (127.0.0.1) 0.54ms
+[E 181218 14:20:28 BaseHandler:38] *****fanhui*****
+[E 181218 14:20:28 MyOrders:14] 这个接口执行了
+[E 181218 14:20:28 MyOrders:20] (0, '')
+[E 181218 14:20:28 web:1670] Uncaught exception GET /api/orders (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8080', method='GET', uri='/api/orders', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/apple/Documents/GitHub/YoukerFuture/handlers/MyOrders.py", line 21, in get
+        result = cur.fetchall()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 301, in fetchall
+        self._check_executed()
+      File "/Users/apple/Desktop/YoukerFuture/venv/Future/lib/python2.7/site-packages/pymysql/cursors.py", line 78, in _check_executed
+        raise err.ProgrammingError("execute() first")
+    ProgrammingError: execute() first
+[E 181218 14:20:28 web:2162] 500 GET /api/orders (127.0.0.1) 1.50ms
