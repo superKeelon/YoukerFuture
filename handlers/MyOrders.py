@@ -27,7 +27,7 @@ class OrdersHandlers(BaseHandler):
         if ret:
             for l in result:
                 print(l)
-                logging.error(l)
+                # logging.error(l)
                 # logging.error(l["order_date"])
                 if l["order_date"]:
 
@@ -45,7 +45,7 @@ class OrdersHandlers(BaseHandler):
                 a.append(l)
 
 
-        logging.error(dict(data = a))
+        # logging.error(dict(data = a))
 
         self.write(dict(data = a))
 
