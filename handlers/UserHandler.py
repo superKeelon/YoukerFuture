@@ -20,6 +20,7 @@ class UserHandler(BaseHandler):
             logging.error(e)
             return self.write(dict(errno=RET.DBERR, errmsg="查询出错"))
         result = cur.fetchall()
+
         a = []
         if ret:
             for l in result:
@@ -34,7 +35,9 @@ class UserHandler(BaseHandler):
                 a.append(l)
 
 
+
         logging.error(dict(data = a))
+        self.db.close()
 
         self.write(dict(data = a))
 
