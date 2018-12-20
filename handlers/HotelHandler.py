@@ -30,7 +30,7 @@ class HotelsHandler(BaseHandler):
                 a.append(l)
 
         # logging.error(dict(data = a))
-        self.db.close()
+        # self.db.close()
         self.write(dict(data = a))
 
 # searchhotelrecord_31
@@ -40,7 +40,7 @@ class SearchHotelRecord(BaseHandler):
 
         logging.error("这个接口执行了")
 
-        sql = "select S.search_Id,S.price,S.search_Time,S.checkInDate,S.leaveDate,U.phone_number from searchhotelrecord_31 S left join y_user_info_1 U  on S.user_Id=U.user_id order by U.search_Id DESC limit 0,200"
+        sql = "select S.search_Id,S.price,S.search_Time,S.checkInDate,S.leaveDate,S.detail_Position_Y,S.detail_Position_X,U.phone_number from searchhotelrecord_31 S left join y_user_info_1 U  on S.user_Id=U.user_id order by S.search_Id DESC limit 0,200"
 
         try:
             ret = cur.execute(sql)
@@ -70,5 +70,7 @@ class SearchHotelRecord(BaseHandler):
                 a.append(l)
 
         # logging.error(dict(data = a))
-        self.db.close()
+        # self.db.close()
         self.write(dict(data = a))
+
+

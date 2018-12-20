@@ -18,6 +18,8 @@ $(document).ready(function(){
         							"<td>" + value.search_Time + "</td>" +
         							"<td>" + value.checkInDate + "</td>" +
         							"<td>" + value.leaveDate + "</td>" +
+        							"<td>" + value.detail_Position_X + "</td>" +
+					                "<td>" + value.detail_Position_Y + "</td>" +
         							"<td>" + value.phone_number + "</td>" +
 
 

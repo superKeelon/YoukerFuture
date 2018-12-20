@@ -47,7 +47,7 @@ class OrdersHandlers(BaseHandler):
 
 
         # logging.error(dict(data = a))
-        self.db.close()
+        # self.db.close()
 
         self.write(dict(data = a))
 
